@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "title": "Iphone13",
+      "price": "2000",
+      "memory": "256",
+      "image": "https://mai-ko.com/wp-content/uploads/2020/05/x02-01a-2.jpg",
+      "category": "Phone",
+      "id": 1
+    }
+  ]
+}
